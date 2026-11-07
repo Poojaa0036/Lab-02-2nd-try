@@ -1,0 +1,68 @@
+
+    {
+        "chart_title": "Sports Attributes",
+    "Soccer": {
+        "endurance": 9,
+        "strength": 6,
+        "speed": 8,
+        "agility": 8,
+        "flexibility": 6,
+        "balance_coordination": 7,
+        "body_composition": 7
+    },
+    "Swimming": {
+        "endurance": 9,
+        "strength": 7,
+        "speed": 7,
+        "agility": 5,
+        "flexibility": 8,
+        "balance_coordination": 6,
+        "body_composition": 8
+    },
+    "Gymnastics": {
+        "endurance": 6,
+        "strength": 9,
+        "speed": 6,
+        "agility": 9,
+        "flexibility": 10,
+        "balance_coordination": 10,
+        "body_composition": 9
+    },
+    "Basketball": {
+        "endurance": 8,
+        "strength": 6,
+        "speed": 8,
+        "agility": 9,
+        "flexibility": 6,
+        "balance_coordination": 8,
+        "body_composition": 7
+    },
+    "Weightlifting": {
+        "endurance": 4,
+        "strength": 10,
+        "speed": 5,
+        "agility": 4,
+        "flexibility": 5,
+        "balance_coordination": 6,
+        "body_composition": 6
+    },
+    "Dance": {
+        "endurance": 8,
+        "strength": 6,
+        "speed": 6,
+        "agility": 8,
+        "flexibility": 9,
+        "balance_coordination": 10,
+        "body_composition": 8
+    },
+    "Volleyball": {
+        "endurance": 6,
+        "strength": 7,
+        "speed": 6,
+        "agility": 8,
+        "flexibility": 6,
+        "balance_coordination": 8,
+        "body_composition": 7
+    }
+}
+   
